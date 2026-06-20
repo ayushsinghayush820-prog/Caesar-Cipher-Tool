@@ -1,5 +1,5 @@
 # Caesar-Cipher-Tool
-A Python implementation of the classic Caesar Cipher for encrypting and decrypting text.
+A Python implementation of the classic Caesar Cipher with full encrypt and decrypt functionality.
 
 ## What it does 
 - Encypts text by shifting each letter by a fixed number of positions in the alphabet
